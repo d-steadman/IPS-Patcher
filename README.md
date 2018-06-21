@@ -8,7 +8,9 @@ Using this tool is very simple:
 
 
   `
-  patcher.py <patch> <file> <output>
+  
+  patcher.py [-vh] <patch> <file> <output>
+  
   `
 
 
