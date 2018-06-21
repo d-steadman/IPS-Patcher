@@ -7,11 +7,7 @@ IPS Patcher is a small script for applying valid IPS patches to binary files.
 Using this tool is very simple:
 
 
-  `
-  
-  patcher.py [-vh] <patch> <file> <output>
-  
-  `
+  `patcher.py [-vh] <patch> <file> <output>`
 
 
 Optional arguments include -v and -h for verbosity and help respectively.
